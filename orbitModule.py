@@ -10,7 +10,7 @@ def n(a,mu):  # to calculate n for orbiting body
     N = mu**(1.0/2.0) * a**(-3.0/2.0)
     return N
 
-def m(t, n):
+def m(t, n):  #
     M = n * t
     return M
 
