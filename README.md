@@ -6,4 +6,3 @@ Click on Earth&Mars.png to see a picture of the product I have gotten programmed
 files in this repository consist all of that is used in the main executable program, centralProgram.py.
 
 
-![Output](OutputPicture.png)
