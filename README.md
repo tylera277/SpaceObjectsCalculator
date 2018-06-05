@@ -4,3 +4,6 @@ and then to translate this into instructions for a telescope to then point at th
 
 Click on Earth&Mars.png to see a picture of the product I have gotten programmed so far. These
 files in this repository consist all of that is used in the main executable program, centralProgram.py.
+
+
+![Output](OutputPicture.png)
